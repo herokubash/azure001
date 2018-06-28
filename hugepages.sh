@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 
 sysctl_conf=/etc/sysctl.d/50-jce-cn-cpu-miner.conf
